@@ -1,4 +1,4 @@
-# eyescan
+# GUI-eyescaner
 ## ファイルの依存関係
 ```
 eyescan.cpp：GUIを立ち上げる
